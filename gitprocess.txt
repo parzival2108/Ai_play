@@ -1,0 +1,12 @@
+git add anotherfile.txt
+git commit -m "Added anotherfile.txt"
+git push origin main
+
+
+
+git remote remove origin
+git remote add origin https://github.com/parzival2108/ai_play.git
+git remote -v
+git push -u origin main
+
+
