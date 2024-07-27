@@ -1,4 +1,0 @@
-git add anotherfile.txt
-git commit -m "Added anotherfile.txt"
-git push origin main
-
